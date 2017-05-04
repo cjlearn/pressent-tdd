@@ -11,7 +11,7 @@ _Code that is easy to test usually exhibits good design_
 
 There are plenty of other benefits of TDD: built-in automated
 verification against regressions, fearless refactoring,
-always-truthful documentaiont, for example. But those don't
+always-truthful documentaion, for example. But those don't
 require test-driven development, only unit-tested code.
 With test-driven you get it all.
 
