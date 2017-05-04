@@ -58,7 +58,7 @@ red-green-refactor cycle. It goes like this:
 1. Decide what you want to change, it should be a small thing, only
 part of a feature
 1. Write a test that will only pass if you successfully make the change.
-You are now _red_
+Verify that the test fails. You are now _red_
 1. Write code that causes the test to pass. You must check all your
 previous tests because you may have caused one or more of them to fail
 with your change. Once all tests are passing, commit your code to
