@@ -66,7 +66,7 @@ source control. You are now _green_
 1. While you are green, survey your code and optionally decide changes you want
 to make to improve code quality only and make them. You must not
 change any behavior. How do you know if you changed behavior? One or
-more of your tests will fail. Once all tests are passing, comit your
+more of your tests will fail. Once all tests are passing, commit your
 code. You just _refactored_
 1. Repeat the cycle
 
