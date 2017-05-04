@@ -27,7 +27,7 @@ find ways to improve.
 
 To outsiders, test-driven design appears to impede productivity.
 Unfortunately, those outsiders might be your boss or
-your customers. But here's what might not see: _you are
+your customers. But here's what they might not see: _you are
 actually improving your overall productivity when you
 test drive_.
 
