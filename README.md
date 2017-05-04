@@ -48,7 +48,7 @@ When you write code that is easy to test, you are automatically
 reducing the coupling in your software. Coupling is the property
 of software that forces you to change many things in response to
 changing a single thing. With low coupling, your code is isolated
-and resliant to changes in other parts of the software.
+and resiliant to changes in other parts of the software.
 
 ## Red Green Refactor
 
