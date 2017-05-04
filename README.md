@@ -9,6 +9,9 @@ impact it has on your design.
 
 _Code that is easy to test usually exhibits good design_
 
+By definition at CJ, good design means code is easy to
+maintain.
+
 There are plenty of other benefits of TDD: built-in automated
 verification against regressions, fearless refactoring,
 always-truthful documentaion, for example. But those don't
