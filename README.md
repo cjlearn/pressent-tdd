@@ -57,6 +57,11 @@ red-green-refactor cycle. It goes like this:
 
 1. Decide what you want to change, it should be a small thing, only
 part of a feature
+    - the first test for a feature is often the _happy path_ test. this test
+      forces you to actually compile but only covers the simplest case
+    - _top-down_ your code. write code as if you already have the function and
+      other parts you need. your code won't compile until you make sure those
+      things are available--_you are letting your test decide what to implement_
 1. Write a test that will only pass if you successfully make the change.
 Verify that the test fails. You are now _red_
 1. Write code that causes the test to pass. You must check all your
